@@ -1,169 +1,237 @@
-# Hi there, I'm Salman Sayem 👋
-
 <div align="center">
 
-### AI Engineer | IoT & Automation Engineer | Building Intelligent Systems
+# 👋 Hi, I'm Salman Sayem
 
-Turning ideas into production-ready AI solutions using LLMs, AI Agents, RAG, and IoT.
+### AI Engineer • LLM Engineer • AI Agent Developer • IoT & Automation Engineer
+
+<p>
+Building production-ready AI systems with LLMs, AI Agents, RAG, LangGraph, Computer Vision, and Industrial IoT.
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Salman5043&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Salman5043?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/Salman5043?style=for-the-badge&logo=github"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm an AI Engineer passionate about building intelligent applications that solve real-world problems.
+💡 Passionate about building intelligent systems that solve real-world engineering problems.
 
-Currently, I work on:
+## Current Focus
 
-- 🤖 AI Agents & Multi-Agent Systems
+- 🤖 AI Agents
 - 🧠 Large Language Models (LLMs)
 - 📚 Retrieval-Augmented Generation (RAG)
-- 🔗 LangChain & LangGraph
-- 🌐 FastAPI & Python Backend Development
-- 📊 Computer Vision & Machine Learning
-- ☁️ Cloud & API Integration
-- 📡 Industrial IoT & Smart Metering Solutions
-- ⚡ Energy Monitoring & Automation Systems
-
-I enjoy designing scalable AI architectures rather than simply integrating APIs.
+- 🔄 LangGraph Multi-Agent Systems
+- ⚡ FastAPI & Python Backend
+- 👁️ Computer Vision
+- 📡 Industrial IoT
+- ⚙️ Automation Systems
+- ☁️ Cloud API Integration
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### AI & Machine Learning
+## Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql"/>
+</p>
 
-### LLM & AI Frameworks
+---
 
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+## AI / Machine Learning
 
-### Backend
+<p>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
-### Databases
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+<img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge"/>
 
-### Vector Databases
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+
+</p>
+
+---
+
+## DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
+
+</p>
+
+---
+
+## Vector Databases
 
 - FAISS
 - Pinecone
-- Weaviate
 - Chroma
+- Weaviate
 - Milvus
 
-### DevOps
+---
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 💼 Featured Projects
+
+## 🤖 AI Agent Platform
+
+✔ Multi-Agent Architecture
+
+✔ Tool Calling
+
+✔ Memory
+
+✔ MCP
+
+✔ Human-in-the-loop
+
+✔ LangGraph
 
 ---
 
-## 💼 Featured Projects
+## 📚 Enterprise RAG Chatbot
 
-### 🤖 AI Agent Platform
+✔ PDF Chat
 
-Production-ready AI agents using:
+✔ Semantic Search
 
-- LangGraph
-- Tool Calling
-- Memory
-- RAG
-- MCP
-- Multi-Agent Workflows
+✔ Vector Database
 
----
+✔ Source Citation
 
-### 📚 Enterprise RAG System
-
-Features:
-
-- PDF Chat
-- Vector Search
-- Semantic Retrieval
-- Source Citation
-- FastAPI Backend
+✔ FastAPI Backend
 
 ---
 
-### 📡 Industrial IoT Platform
+## 📡 Industrial IoT Platform
 
-Industrial monitoring platform for:
+✔ MQTT
 
-- Energy Meters
-- Water Meters
-- Steam Flow Meters
-- Gas Flow Meters
-- MQTT Communication
-- Real-Time Dashboard
+✔ Modbus RTU/TCP
 
----
+✔ Smart Water Meter
 
-### 👁 Computer Vision
+✔ Energy Monitoring
 
-- Object Detection (YOLO)
-- OCR
-- Image Classification
-- Industrial Inspection
+✔ Flow Meter Monitoring
+
+✔ Real-Time Dashboard
 
 ---
 
-## 📈 GitHub Stats
+## 👁 Computer Vision
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Salman5043&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman5043&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+✔ YOLO
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Salman5043&theme=github-dark&hide_border=true" />
-</p>
-## 🔥 GitHub Streak
+✔ OCR
 
-<p align="center">
+✔ Object Detection
 
-<img src="https://streak-stats.demolab.com?user=Salman5043&theme=github-dark"/>
-
-</p>
+✔ Image Processing
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- Advanced AI Agent Architectures
 - Context Engineering
-- MCP (Model Context Protocol)
-- Agentic RAG
+- Model Context Protocol (MCP)
+- Agentic AI
 - Distributed AI Systems
-- LLM Evaluation Frameworks
+- LLM Evaluation
+- AI Infrastructure
 
 ---
 
-## 🤝 Let's Connect
+# 🏆 GitHub Trophy
 
-- 💼 LinkedIn: www.linkedin.com/in/salman-sayem
-- 📧 Email: sayem.salman.504@gmail.com
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Salman5043&theme=algolia&margin-w=10&no-frame=true"/>
 
-## 💡 Quote
-
-> "The future belongs to systems that can reason, retrieve, and act—not just generate."
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salman5043&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🏅 Achievements
+
+- 🤖 AI Engineer
+- 📡 Industrial IoT Engineer
+- ⚡ Automation Engineer
+- 🧠 LLM Application Developer
+- 📚 RAG Specialist
+- 🔄 Multi-Agent System Developer
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/salman-sayem">
+<img src="https://img.shields.io/badge/LinkedIn-Salman%20Sayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sayem.salman.504@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-sayem.salman.504%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+> *"The best AI systems don't just generate answers—they retrieve knowledge, reason about context, and take meaningful action."*
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me and checking out my repositories.
+
+</div>
