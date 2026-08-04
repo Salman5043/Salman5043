@@ -126,9 +126,9 @@ Industrial monitoring platform for:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Salman5043&show_icons=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman5043&layout=compact&theme=github_dark"/>
 
 </p>
 
@@ -138,7 +138,7 @@ Industrial monitoring platform for:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://streak-stats.demolab.com?user=Salman5043&theme=github-dark"/>
 
 </p>
 
