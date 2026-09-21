@@ -162,29 +162,9 @@ Building production-ready AI systems with LLMs, AI Agents, RAG, LangGraph, Compu
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Salman5043&show_icons=true&theme=algolia&hide_border=true&count_private=true"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Salman5043&show_icons=true&theme=algolia&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman5043&layout=compact&theme=algolia&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Salman5043&theme=algolia&margin-w=10&no-frame=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salman5043&theme=github-dark"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Salman5043&layout=compact&theme=algolia&hide_border=true&count_private=true"/>
 
 </p>
 
